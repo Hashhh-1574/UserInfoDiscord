@@ -83,14 +83,7 @@ def tokenFuck(token):
 def getBanner():
     banner = f'''
 
-           ▄▄▄▄▄ ▀▄    ▄  ▄     ▄▄▄▄▀ ██       ▄    ▄▄▄▄▄    ▄▄ █   
-          █     ▀▄ █  █    █ ▀▀▀ █    █ █  ▀▄   █  █     ▀▄ █   █   
-        ▄  ▀▀▀▀▄    ▀█ ██   █    █    █▄▄█   █ ▀ ▄  ▀▀▀▀▄    ▀▀▀█   
-         ▀▄▄▄▄▀     █  █ █  █   █     █  █  ▄ █   ▀▄▄▄▄▀        █   
-                  ▄▀   █  █ █  ▀         █ █   ▀▄                █  
-                       █  ██            █   ▀                     ▀ 
-                                       ▀                            
-
+                        By 0505#1574
                 <{Fore.RED}1{Fore.RESET}> Dm Recent Users
                 <{Fore.RED}2{Fore.RESET}> Token Info
     '''.replace('░', f'{Fore.RED}░{Fore.RESET}')
